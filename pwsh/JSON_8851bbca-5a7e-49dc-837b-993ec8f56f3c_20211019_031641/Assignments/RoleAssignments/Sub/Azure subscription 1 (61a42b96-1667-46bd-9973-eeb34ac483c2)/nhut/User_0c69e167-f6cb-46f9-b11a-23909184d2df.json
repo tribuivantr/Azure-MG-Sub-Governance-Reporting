@@ -1,0 +1,10 @@
+{
+  "RoleAssignmentId": "/subscriptions/61a42b96-1667-46bd-9973-eeb34ac483c2/resourcegroups/nhut/providers/microsoft.authorization/roleassignments/0c69e167-f6cb-46f9-b11a-23909184d2df",
+  "Scope": "/subscriptions/61a42b96-1667-46bd-9973-eeb34ac483c2/resourceGroups/nhut",
+  "DisplayName": "Nhut",
+  "SignInName": "nhut@longnguyen12398outlook.onmicrosoft.com",
+  "RoleDefinitionName": "Owner",
+  "RoleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635",
+  "ObjectId": "11874284-9346-4410-a8e9-1895df3e5365",
+  "ObjectType": "User"
+}

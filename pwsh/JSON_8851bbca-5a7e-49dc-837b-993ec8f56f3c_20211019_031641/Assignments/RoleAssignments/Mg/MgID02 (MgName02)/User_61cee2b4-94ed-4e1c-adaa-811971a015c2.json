@@ -1,0 +1,10 @@
+{
+  "RoleAssignmentId": "/providers/microsoft.management/managementgroups/mgid02/providers/microsoft.authorization/roleassignments/61cee2b4-94ed-4e1c-adaa-811971a015c2",
+  "Scope": "/providers/Microsoft.Management/managementGroups/MgID02",
+  "DisplayName": "long nguyen",
+  "SignInName": "longnguyen12398_outlook.com#EXT#@longnguyen12398outlook.onmicrosoft.com",
+  "RoleDefinitionName": "Owner",
+  "RoleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635",
+  "ObjectId": "7bd9ef55-bac6-49d4-9cf2-6e291b13dee3",
+  "ObjectType": "User"
+}

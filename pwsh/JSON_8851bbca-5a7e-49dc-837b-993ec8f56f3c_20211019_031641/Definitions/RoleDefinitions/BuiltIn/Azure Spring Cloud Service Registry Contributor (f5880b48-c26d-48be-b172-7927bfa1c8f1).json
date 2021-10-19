@@ -1,0 +1,24 @@
+{
+  "roleName": "Azure Spring Cloud Service Registry Contributor",
+  "type": "BuiltInRole",
+  "description": "Allow read, write and delete access to Azure Spring Cloud Service Registry",
+  "assignableScopes": [
+    "/"
+  ],
+  "permissions": [
+    {
+      "actions": [],
+      "notActions": [],
+      "dataActions": [
+        "Microsoft.AppPlatform/Spring/eurekaService/read",
+        "Microsoft.AppPlatform/Spring/eurekaService/write",
+        "Microsoft.AppPlatform/Spring/eurekaService/delete"
+      ],
+      "notDataActions": []
+    }
+  ],
+  "createdOn": "2021-08-20T04:42:38.9153779Z",
+  "updatedOn": "2021-08-20T04:42:38.9153779Z",
+  "createdBy": null,
+  "updatedBy": null
+}

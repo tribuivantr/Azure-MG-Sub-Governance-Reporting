@@ -1,0 +1,10 @@
+{
+  "RoleAssignmentId": "/subscriptions/61a42b96-1667-46bd-9973-eeb34ac483c2/resourcegroups/ebuirg/providers/microsoft.authorization/roleassignments/46f1ffea-adc3-4b82-abcb-9f55d72d932e",
+  "Scope": "/subscriptions/61a42b96-1667-46bd-9973-eeb34ac483c2/resourceGroups/eBuiRG",
+  "DisplayName": null,
+  "SignInName": null,
+  "RoleDefinitionName": "Reader",
+  "RoleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
+  "ObjectId": "17e2d3a3-d824-4072-ab9e-e3d7abe0989a",
+  "ObjectType": "Unknown"
+}

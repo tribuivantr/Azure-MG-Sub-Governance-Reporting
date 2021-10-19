@@ -1,0 +1,25 @@
+{
+  "roleName": "Purview Data Source Administrator (Legacy)",
+  "type": "BuiltInRole",
+  "description": "The Microsoft.Purview data source administrator is a legacy role that can manage data sources and data scans. We have recently deprecated this role from Azure role-based access and introduced a new data source admin inside Azure Purview data plane. See https://docs.microsoft.com/azure/purview/catalog-permissions#roles",
+  "assignableScopes": [
+    "/"
+  ],
+  "permissions": [
+    {
+      "actions": [
+        "Microsoft.Purview/accounts/read"
+      ],
+      "notActions": [],
+      "dataActions": [
+        "Microsoft.Purview/accounts/scan/read",
+        "Microsoft.Purview/accounts/scan/write"
+      ],
+      "notDataActions": []
+    }
+  ],
+  "createdOn": "2020-11-14T02:40:05.0975648Z",
+  "updatedOn": "2021-09-23T17:13:51.3947323Z",
+  "createdBy": null,
+  "updatedBy": null
+}
